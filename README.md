@@ -10,7 +10,7 @@ opened in any modern web browser.
 Example
 -------
 
-<img src="http://stats.svetlyak.ru/example.svg" width="900" height="600"/>
+http://stats.svetlyak.ru/example.svg
 
 Contributors
 ------------
