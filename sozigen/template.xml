@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="100%"
+   height="100%"
+   id="svg2"
+   version="1.1"
+>
+    {sozi_js}
+    {custom_js}
+    {content}
+</svg>
+
+

@@ -1,0 +1,3 @@
+include README.md
+include sozigen/*.js
+include sozigen/*.xml
