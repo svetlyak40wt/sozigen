@@ -10,7 +10,7 @@ opened in any modern web browser.
 Example
 -------
 
-![](https://raw.github.com/svetlyak40wt/sozigen/master/example.svg)
+![](http://stats.svetlyak.ru/example.svg)
 
 Contributors
 ------------
