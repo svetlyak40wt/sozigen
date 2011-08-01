@@ -7,6 +7,11 @@ to show monitoring graphs on large TV displays and projectors.
 With SoziGen, you describe graphs layout in python and it generates SVG file to be
 opened in any modern web browser.
 
+Example
+-------
+
+![](https://raw.github.com/svetlyak40wt/sozigen/master/example.svg)
+
 Contributors
 ------------
 
