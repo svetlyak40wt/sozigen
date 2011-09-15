@@ -1,4 +1,4 @@
-SoziGen — describe your slides in python
+SoziGen - describe your slides in python
 ========================================
 
 This project's purpose is to automate buildoing of the hierachical slideshows. It is useful
@@ -10,7 +10,7 @@ opened in any modern web browser.
 Example
 -------
 
-http://stats.svetlyak.ru/example.svg
+http://svetlyak40wt.github.com/sozigen/example.svg
 
 Contributors
 ------------
